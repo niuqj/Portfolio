@@ -14,4 +14,4 @@
 
 AI RAW 降噪相关研究与实现。
 
-[查看项目 →](./AI_RAW_NR/)
+[查看项目 →](./AI_RAW_NR/) · [在线交互对比 →](https://niuqj.github.io/Portfolio/ai_raw_nr/)
