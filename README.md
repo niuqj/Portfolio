@@ -6,12 +6,12 @@
 
 ### 2026.07 – 2026.11 · IMU 防抖
 
-基于 200 Hz IMU 的实时视频防抖（EIS）算法与工程实现。
+基于 200 Hz IMU 的实时视频防抖（EIS）算法与工程实现，独立完成。
 
 [查看项目 →](./IMU_deshake/)
 
 ### 2026.11 – 至今 · AI RAW NR
 
-AI RAW 降噪相关研究与实现。
+AI RAW 降噪相关研究与实现，独立完成。
 
-[查看项目 →](./AI_RAW_NR/) · [在线交互对比 →](https://niuqj.github.io/Portfolio/ai_raw_nr/)
+[查看项目 →](./AI_RAW_NR/)
