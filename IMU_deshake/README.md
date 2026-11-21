@@ -4,13 +4,13 @@
 
 ## 演示视频
 
-下方为 30 fps 动图预览，点击末尾链接可查看原始画质的完整 mp4。
+下方为 30 fps 动图预览（WebP，约 5–10 MB），点击末尾链接可查看原始画质的完整 mp4。
 
 ### 三路对比 · sbs3_dj0183_RAW_STAB_0460_200hz
 
 左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案）
 
-![sbs3_dj0183_RAW_STAB_0460_200hz](sbs3_dj0183_RAW_STAB_0460_200hz.gif)
+![sbs3_dj0183_RAW_STAB_0460_200hz](sbs3_dj0183_RAW_STAB_0460_200hz.webp)
 
 [▶ 完整 mp4](sbs3_dj0183_RAW_STAB_0460_200hz.mp4)
 
@@ -18,7 +18,7 @@
 
 左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案）
 
-![sbs3_dj0184_RAW_STAB_0461_200hz](sbs3_dj0184_RAW_STAB_0461_200hz.gif)
+![sbs3_dj0184_RAW_STAB_0461_200hz](sbs3_dj0184_RAW_STAB_0461_200hz.webp)
 
 [▶ 完整 mp4](sbs3_dj0184_RAW_STAB_0461_200hz.mp4)
 
@@ -26,7 +26,7 @@
 
 左 **INPUT**（原始） · 右 **OURS**（本算法）；纯效果展示，无第三方对比
 
-![sbs_mv7_RAW_STAB_off6](sbs_mv7_RAW_STAB_off6.gif)
+![sbs_mv7_RAW_STAB_off6](sbs_mv7_RAW_STAB_off6.webp)
 
 [▶ 完整 mp4](sbs_mv7_RAW_STAB_off6.mp4)
 
