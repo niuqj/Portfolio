@@ -8,7 +8,7 @@
 
 ### 三路对比 · sbs3_dj0183_RAW_STAB_0460_200hz
 
-左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案）
+左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（DJI Osmo Action 5 Pro）
 
 ![sbs3_dj0183_RAW_STAB_0460_200hz](sbs3_dj0183_RAW_STAB_0460_200hz.webp)
 
@@ -16,7 +16,7 @@
 
 ### 三路对比 · sbs3_dj0184_RAW_STAB_0461_200hz
 
-左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案）
+左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（DJI Osmo Action 5 Pro）
 
 ![sbs3_dj0184_RAW_STAB_0461_200hz](sbs3_dj0184_RAW_STAB_0461_200hz.webp)
 
@@ -30,7 +30,7 @@
 
 [▶ 完整 mp4](sbs_mv7_RAW_STAB_off6.mp4)
 
-画面上的标注已直接叠加在视频左上角，便于逐帧对比。前两个视频含大疆（DJ）对比，`sbs_mv7` 仅用于展示本算法效果。
+画面上的标注已直接叠加在视频左上角，便于逐帧对比。前两个视频含 **DJI Osmo Action 5 Pro**（图中标注为 **DJ**）的增稳对比，`sbs_mv7` 仅用于展示本算法效果。
 
 ## 效果
 
