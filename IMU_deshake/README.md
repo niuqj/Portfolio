@@ -4,11 +4,31 @@
 
 ## 演示视频
 
-| 视频 | 拼接方式 | 说明 |
-|------|----------|------|
-| [▶ sbs3_dj0183_RAW_STAB_0460_200hz.mp4](sbs3_dj0183_RAW_STAB_0460_200hz.mp4) | 三路横向 | 左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案） |
-| [▶ sbs3_dj0184_RAW_STAB_0461_200hz.mp4](sbs3_dj0184_RAW_STAB_0461_200hz.mp4) | 三路横向 | 左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案） |
-| [▶ sbs_mv7_RAW_STAB_off6.mp4](sbs_mv7_RAW_STAB_off6.mp4) | 双路横向 | 左 **INPUT**（原始） · 右 **OURS**（本算法）；纯效果展示，无第三方对比 |
+下方为 30 fps 动图预览，点击末尾链接可查看原始画质的完整 mp4。
+
+### 三路对比 · sbs3_dj0183_RAW_STAB_0460_200hz
+
+左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案）
+
+![sbs3_dj0183_RAW_STAB_0460_200hz](sbs3_dj0183_RAW_STAB_0460_200hz.gif)
+
+[▶ 完整 mp4](sbs3_dj0183_RAW_STAB_0460_200hz.mp4)
+
+### 三路对比 · sbs3_dj0184_RAW_STAB_0461_200hz
+
+左 **INPUT**（原始） · 中 **OURS**（本算法） · 右 **DJ**（对比方案）
+
+![sbs3_dj0184_RAW_STAB_0461_200hz](sbs3_dj0184_RAW_STAB_0461_200hz.gif)
+
+[▶ 完整 mp4](sbs3_dj0184_RAW_STAB_0461_200hz.mp4)
+
+### 双路对比 · sbs_mv7_RAW_STAB_off6
+
+左 **INPUT**（原始） · 右 **OURS**（本算法）；纯效果展示，无第三方对比
+
+![sbs_mv7_RAW_STAB_off6](sbs_mv7_RAW_STAB_off6.gif)
+
+[▶ 完整 mp4](sbs_mv7_RAW_STAB_off6.mp4)
 
 画面上的标注已直接叠加在视频左上角，便于逐帧对比。前两个视频含大疆（DJ）对比，`sbs_mv7` 仅用于展示本算法效果。
 
