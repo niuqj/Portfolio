@@ -2,6 +2,8 @@
 
 独立完成 AI RAW 降噪模型的研究与实现，提出 **Wide** 和 **Narrow** 两种模型配置：Wide 模型为 **1.0367 M 参数**，处理一张 **256×256 Bayer 图像约需 0.2925 G 运算**；Narrow 模型为 **773 K 参数**，约需 **0.1373 G 运算**。图像处理流程包含黑电平校正、自动白平衡、自动曝光、去马赛克和模型降噪。
 
+Wide 模型训练权重（ONNX）：[下载 `wide_SIDD-CC_1x256x256.onnx`](models/wide_SIDD-CC_1x256x256.onnx)（4.21 MB）。该模型对应下方 SIDD-CC 结果中的 **Ours (Wide)**（50.20 dB PSNR / 0.993 SSIM）。
+
 ### SIDD-CC 评测结果
 
 | 方法 | 训练/评测类型 | PSNR ↑ (dB) | SSIM ↑ |
