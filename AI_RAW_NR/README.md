@@ -7,13 +7,13 @@
 | 方法 | 训练/评测类型 | PSNR ↑ (dB) | SSIM ↑ |
 |---|---|---:|---:|
 | NAFNet | 有监督 | 51.63 | 0.995 |
-| Ours (Wide) | 自监督 | **50.2022** | **0.99334** |
+| Ours (Wide) | 自监督 | **50.20** | **0.993** |
 | YOND | 盲降噪 | 50.15 | 0.991 |
 | B2U | 自监督 | 49.41 | 0.988 |
 | BM3D | 非学习方法 | 46.99 | 0.967 |
-| Ours (Narrow) | 自监督 |  |  |
+| Ours (Narrow) | 自监督 |  | **0.993** |
 
-Narrow 模型的 SIDD-CC PSNR 和 SSIM 尚未完成评测。本模型（Wide 配置）结果高于论文列出的盲降噪与自监督基线；有监督 NAFNet 分数更高，因此本结果不代表 SIDD-CC 所有方法中的最高分。公平比较以评测划分、输入处理和指标计算口径一致为前提。
+Narrow 模型的 SIDD-CC PSNR 尚未完成评测。本模型（Wide 配置）结果高于论文列出的盲降噪与自监督基线；有监督 NAFNet 分数更高，因此本结果不代表 SIDD-CC 所有方法中的最高分。公平比较以评测划分、输入处理和指标计算口径一致为前提。
 
 数据来源：Mohammadi et al., [*Why Low-Light Cameras Go Color Blind: Removing Color Bias in Raw Denoising*](https://arxiv.org/abs/2607.11090), arXiv:2607.11090v1, Table 3(b)（SIDD-CC RAW 验证集）。Ours（Wide）结果为自监督评测。
 
